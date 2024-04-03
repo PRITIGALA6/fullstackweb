@@ -1,0 +1,53 @@
+.body{
+  background-color: #c5c5c5;
+  font-size: 1.6rem;
+  font-family: "Open Sans", sans-serif;
+  
+  
+}
+#card{
+    background-color: #fff;
+    width: 50%;
+    height:80%;
+    margin-top: 100px;
+    margin-left: 400px;
+    padding: 20px 0 0 0;
+    border-radius: 40px;
+    box-shadow: 0px 30px 50px 0px rgba(0, 0, 0, 0.2);
+}
+
+.head{
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.custom_btn {
+  background-color: #19C9DB;
+  color: #fff;
+  border-radius: 20px;
+  width: 280px;
+  height: 30px;
+  margin: auto 50%;
+  margin-top: 30px;
+}
+
+#create_account_wrap{
+  background-color: #fff;
+  color: darkgrey;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+}
+.inp{
+  width: 280px;
+}
+
+.custom_form {
+  max-width: 500px;
+  width: auto;
+}
+
+.lab {
+  margin: auto 50%;
+  width: 250px;
+  margin-bottom: 10px;
+}

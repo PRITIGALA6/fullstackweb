@@ -1,0 +1,16 @@
+Part one - First
+
+Research Report: Definition & scope
+Title: Understanding Algorithmic Bias in AI Systems: Impact, Challenges and Mitigation Strategies.
+Study Type: Critical Concept Discussion.
+Short Statement: 
+This research report mainly focuses on exploring the presence of algorithmic bias in AI and ML systems. In this study, we will explore what bias is, the types of biases, and the issues and impacts of bias on individuals and groups in human life. The aim is to identify the reasons behind algorithmic bias in AI systems and discuss the challenges in detecting bias. Additionally, we will propose strategies to mitigate bias in AI systems.
+Main Section:
+In this research, we'll provide a brief overview of how AI and ML are growing in many business sectors and their significant role in decision-making. We'll explore how AI and ML algorithms influence decisions and examine the major issue of algorithmic bias in AI and ML systems. We'll explain how bias can be found in AI and ML systems, including irrelevant or incomplete data, biased training data, and programming errors. 
+We'll discuss some real-world bias situations and how they've tackled those problems. By looking at these examples, we will gain insights into the different ways bias can be shown in AI systems. Our focus will be on understanding how biased algorithms increase social injustices for people. We'll discuss the methods and strategies used in the given study, carefully reviewing published papers and articles.
+We will look at how AI systems sometimes make unfair biased decisions. We will discuss how these systems are used in our present life in different scenarios to make decisions for job profiling selection, approval for loans, and many more. We will also examine in depth why systems can be biased and how we can solve this problem to give fairer results. 
+We will examine the idea of fairness and discuss the many viewpoints on what is required for an AI system to be fair. We will discuss from the previously published study how researchers define fairness. Additionally, we will study the current approaches for reducing bias in AI systems deeply. In that, we will discuss the strategies, difficulties, and drawbacks. Also, we will explore some new ideas to overcome or reduce bias in AI ML systems. 
+Through this crucial study, we want to identify the drawbacks of these strategies and improve them by studying and researching new ideas to make more efficient models for making fair decisions.
+  
+
+
