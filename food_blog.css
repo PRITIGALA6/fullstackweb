@@ -1,0 +1,182 @@
+html,body, h1, h2,h3, h4,h5,h6{
+    font-family: "karma", sans-serif;
+}
+
+.padding{
+    padding: 8px 16px;
+}
+.row_padding{
+    padding: 0 8px;
+}
+.quarter{
+    width: 22.99%;
+    float: left;
+    padding: 0 8px;
+}
+
+.top_bar{
+    width: 100%;
+    /* position: fixed; */
+    top: 0;
+}
+
+.bar{
+    font-size: 24px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.barline
+{
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+}
+.barline:hover{
+    background-color: lightgray;
+}
+
+.slide_bar_btn{
+    display: inline-block;
+    border: none;
+    padding: 8px 16px;
+    overflow: hidden;
+    color: inherit;
+    background-color: inherit;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.slide_bar_btn:hover{
+    background-color: lightgray;
+}
+
+.slide_bar{
+    height: 100%;
+    position: fixed ;
+    overflow: auto;
+}
+
+.w3_card{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    animation: animateleft 0.4s;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.padding_16{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.padding_32{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.container{
+    padding: 0.01em 16px;
+}
+
+.center{
+    text-align: center;
+}
+
+.content{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+.hover_black:hover{
+    background-color: black;
+    color: white;
+}
+
+.hover_black{
+    display: block;
+    float: left;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bar_page{
+    display: inline-block;
+    width: auto;
+    margin: auto;
+    
+}
+
+.black{
+    background-color: black;
+    color: white;
+    display: block;
+    float: left;
+    padding: 15px;
+}
+
+.black:hover{
+    background-color: lightgray;
+}
+
+.footer_part{
+    width: 31.999%;
+    float: left;
+    padding: 0 8px;
+}
+
+.ul_style{
+    
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.hover_grey
+{
+    padding: 0;
+    margin: 0;
+}
+.hover_grey:hover{
+    background-color: grey;
+}
+
+.margin_right{
+    margin-right: 16px ;
+}
+
+.large{
+    font-size: 18px;
+}
+
+.bg_black{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 2px 8px;
+    margin-bottom: 16px;
+}
+
+.small{
+    font-size: 12px;
+}
+.bg_grey{
+    background-color: grey;
+    color: white;
+    padding: 2px 8px;
+    display: inline-block;
+    margin-bottom: 16px;
+}
