@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Calculator</title>
+        <link rel="stylesheet" href="calculator.css"
+    </head>
+    <body>
+        <h1 class="center">Calculator</h1>
+        <table class="square">
+            <tr class="trow">
+                <td class='dborder' colspan="3" id="display"></td>
+                <td><input type="button" class="box" value="C" onclick="clearDisplay()"/></td>
+            </tr>
+            <tr>
+                <td class="zero"><input type="button" class="box" value="1" onclick="append('1')"/></td>
+                <td><input type="button" class="box" value="2" onclick="append('2')"/></td>
+                <td><input type="button" class="box" value="3" onclick="append('3')"/></td>
+                <td><input type="button" class="box" value="/" onclick="append('/')"/></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="box" value="4" onclick="append('4')"/></td>
+                <td><input type="button" class="box" value="5" onclick="append('5')"/></td>
+                <td><input type="button" class="box" value="6" onclick="append('6')"/></td>
+                <td><input type="button" class="box" value="-" onclick="append('-')"/></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="box" value="7" onclick="append('7')"/></td>
+                <td><input type="button" class="box" value="8" onclick="append('8')"/></td>
+                <td><input type="button" class="box" value="9" onclick="append('9')"/></td>
+                <td><input type="button" class="box" value="+" onclick="append('+')"/></td>
+            </tr>
+            <tr>
+                <td><input type="button" class="box-last" value="." onclick="append('.')"/></td>
+                <td><input type="button" class="box-last" value="0" onclick="append('0')"/></td>
+                <td><input type="button" class="box-last" value="=" onclick="calculate()"/></td>
+                <td><input type="button" class="box-last" value="*" onclick="append('*')"/></td>
+            </tr>
+        </table>
+        <script src=".\script.js"></script>
+    </body>
+</html>
